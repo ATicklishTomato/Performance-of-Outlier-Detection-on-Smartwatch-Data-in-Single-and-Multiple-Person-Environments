@@ -1,0 +1,5 @@
+results/*
+!results/.gitkeep
+preprocessed_windows/*
+!preprocessed_windows/.gitkeep
+.idea
